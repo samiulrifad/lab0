@@ -1,0 +1,14 @@
+C:\Users\AR\lab-0-setup\HelloLab0\bin\Debug\net9.0\HelloLab0.exe
+C:\Users\AR\lab-0-setup\HelloLab0\bin\Debug\net9.0\HelloLab0.deps.json
+C:\Users\AR\lab-0-setup\HelloLab0\bin\Debug\net9.0\HelloLab0.runtimeconfig.json
+C:\Users\AR\lab-0-setup\HelloLab0\bin\Debug\net9.0\HelloLab0.dll
+C:\Users\AR\lab-0-setup\HelloLab0\bin\Debug\net9.0\HelloLab0.pdb
+C:\Users\AR\lab-0-setup\HelloLab0\obj\Debug\net9.0\HelloLab0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AR\lab-0-setup\HelloLab0\obj\Debug\net9.0\HelloLab0.AssemblyInfoInputs.cache
+C:\Users\AR\lab-0-setup\HelloLab0\obj\Debug\net9.0\HelloLab0.AssemblyInfo.cs
+C:\Users\AR\lab-0-setup\HelloLab0\obj\Debug\net9.0\HelloLab0.csproj.CoreCompileInputs.cache
+C:\Users\AR\lab-0-setup\HelloLab0\obj\Debug\net9.0\HelloLab0.dll
+C:\Users\AR\lab-0-setup\HelloLab0\obj\Debug\net9.0\refint\HelloLab0.dll
+C:\Users\AR\lab-0-setup\HelloLab0\obj\Debug\net9.0\HelloLab0.pdb
+C:\Users\AR\lab-0-setup\HelloLab0\obj\Debug\net9.0\HelloLab0.genruntimeconfig.cache
+C:\Users\AR\lab-0-setup\HelloLab0\obj\Debug\net9.0\ref\HelloLab0.dll
